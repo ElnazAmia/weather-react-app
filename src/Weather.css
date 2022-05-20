@@ -21,11 +21,8 @@
   font-weight: 100;
   line-height: 19px;
 }
-.weather img{
-    height:64px;
-    width: 64px;
-    margin-right: 10px;
-    display: inline-block;
+.weather canvas {
+  margin: 10px auto;
 }
 .weather .temperature {
   font-weight: 400;
