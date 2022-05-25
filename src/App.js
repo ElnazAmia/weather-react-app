@@ -1,6 +1,6 @@
 import React from "react";
 import "./App.css";
-import Weather from "./Weather"
+import Weather from "./Weather";
 
 export default function App() {
   return (
@@ -18,7 +18,7 @@ export default function App() {
           </a>{" "}
           and{" "}
           <a
-            href="https://fanciful-mochi-71d178.netlify.app"
+            href="https://beamish-crepe-120405.netlify.app"
             target="_blank"
             rel="noopener noreferrer"
           >
